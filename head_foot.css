@@ -1,0 +1,85 @@
+﻿
+#content #head .daohang .cssA {
+	text-decoration: none;
+}
+#content #head a:hover {
+	color: #FFFFFF;
+	background-color: #0066FF;
+}
+
+#content #head .daohang a {
+	text-decoration: none;
+	width: 104px;
+	display: block;
+	background-image: url(images/anniu.gif);
+	color:#000000;
+}
+
+ #content #head .daohang a:hover{
+	background-position: 0px -55px;
+	color:#000000;
+}
+
+#content #head ul {
+	margin: 0;
+	padding: 0;
+	float:right;
+    height: 66px;
+}
+
+#content #head .daohang {
+	float: left;
+	width: 104px;
+	text-align: center;
+	list-style: none;
+	line-height: 35px;
+	font-size: 12px;
+    height: 35px;
+}
+
+body{
+	margin:0;
+	padding:0;
+	color: #000000;
+}
+
+#content {
+	font-size: 12px;
+	width: 780px;
+	margin:0 auto;
+	background-color:#FFFFFF
+}
+
+#content #head {
+	width: 780px;
+	text-align: center;
+	padding-top:5px;
+    margin-left: 2px;
+}
+
+#friendweb{
+    width:780px;
+    height:50px;
+    line-height:30px;
+    text-align: center;
+}
+
+#foot{
+    width:780px;
+    height:50px;
+    border-top:1px solid #FF7600;
+    line-height:30px;
+    text-align: center;
+}
+
+#logo
+{
+	padding-left:100px;
+    width:680px;
+    height:1px;
+}
+#group
+{
+	width:780px;
+	border:1px solid #FF7600;
+	}
